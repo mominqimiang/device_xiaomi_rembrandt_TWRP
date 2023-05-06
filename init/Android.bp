@@ -1,6 +1,6 @@
 cc_library_static {
 
-    name: "libinit_rubens",
+    name: "libinit_rembrandt",
 
     header_libs: [
 
@@ -20,7 +20,7 @@ cc_library_static {
 
     ],
 
-    srcs: ["init_rubens.cpp"],
+    srcs: ["init_rembrandt.cpp"],
 
     recovery_available: true,
 
