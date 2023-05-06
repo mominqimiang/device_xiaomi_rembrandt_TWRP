@@ -30,7 +30,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device specific configs
-$(call inherit-product, device/xiaomi/rubens/device.mk)
+$(call inherit-product, device/xiaomi/rembrandt/device.mk)
 
 # Device identifier
 PRODUCT_DEVICE := rembrandt
