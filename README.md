@@ -19,5 +19,3 @@ Battery | 5500 mAh
 Display | 1440 x 3200 pixels, 6.67 inches, 60/120 hz
 
 ![Redmi K60E](https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202212261442_125b14aa8b806a970651cd3473ec3dd1.png)
-自带云跑脚本，使用方法：
-fork，把/.github/workflow/里的yml脚本里的dt地址换成你的，再action
