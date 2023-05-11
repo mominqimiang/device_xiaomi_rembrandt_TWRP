@@ -18,7 +18,7 @@ Storage | 128/256/512 GB (UFS 3.1)
 Battery | 5500 mAh
 Display | 1440 x 3200 pixels, 6.67 inches, 60/120 hz
 
-The device tree is based on redmi k
+## The device tree is based on redmi k
 50(rubens)'s which is made by @YukongA.
 
 ![Redmi K60E](https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202212261442_125b14aa8b806a970651cd3473ec3dd1.png)
